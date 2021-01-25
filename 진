@@ -6,5 +6,5 @@
 </div>
 <a href="javascript:doDisplay('진특징');"> 특징 내용</a><br/><br/>
 <div id="진특징" style="display:none;">
-특징 : 실제로 만나면 성격이 얌전해지고 말이 없어진다.sdasdsadsad
+특징 : 실제로 만나면 성격이 얌전해지고 말이 없어진다.
 </div>
