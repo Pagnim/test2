@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="utf-8">
+        <script>
+                function 논란내용(name){
+                fetch(name).then(function(response){
+                response.text().then(function(text){
+                document.querySelector('#내용').innerHTML = text;
+                    })
+                });
+                }     
+             fetch('논란list').then(function(response){
+                 response.text().then(function(text){
+                   var items = text.split(',');
+                   var i = 0;
+                   var tags ='';
+                   while(i<items.length){
+                   var item = items[i];
+                   item = item.trim();
+                   var tag = '<li></span><a href="#!'+item+'"onclick="fetchpage(\''+item+'\')"><span style="font-size:50px;">'+item+'<span></a></li>';
+                   tags = tags + tag;
+                   i = i + 1;
+                 }
+                 document.querySelector('#ol').innerHTML = tags;
+                })
+             });
+             function fetchpage(name)
+                {fetch(name).then(function(response){
+                response.text().then(function(text){
+                document.querySelector('#내용').innerHTML = text;
+                    })
+                });
+                }   
+        </script>
+        <body style="background-color:rgb(228, 228, 255)">
+            <h1><img src="브이.png" width="11%">부카츠 악질 목록<img src="브이.png" width="11%"></h1>
+            <div id="grid">
+            <ol id="ol">
+            </ol>
+             <div>
+             <p id="내용">
+             </p>
+         </div>
+        </div>
+        </body>
+    </head>
+</html>
