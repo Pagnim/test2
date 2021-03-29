@@ -1,0 +1,13 @@
+<a href="javascript:doDisplay('나댕사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="나댕사진" style="display:none;">
+<img src="나댕.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="특징" style="display:none;">
+<div style="color:red;">나이 : 24살..?<br>
+<div style="color:orange;">생일 : 2월 28일<br>
+<div style="color:yellow;">사는 곳 : 서울<br>
+<div style="color:green;">MBTI : isfp<br>
+<div style="color:blue;">하는 게임 :  롤 포함 이것저것 웬만한 게임 다 좋아한다구욧!!(그래픽이나 캐릭터 별로면 안한다.) <br>
+                                     대신 하루 하고 안하는 경우가 대부분 ㅎㅎ<br><br>
+<div style="color:black;">특징 : 특징 스쿨아이돌을 하고있다. <br>
