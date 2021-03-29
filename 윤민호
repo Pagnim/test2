@@ -1,0 +1,12 @@
+<a href="javascript:doDisplay('민호사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="민호사진" style="display:none;">
+<img src="윤민호.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('민호특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="민호특징" style="display:none;">
+<div style="color:red;">나이 : 22살<br>
+<div style="color:orange;">생일 : 10월 27일<br>
+<div style="color:yellow;">사는 곳 : 경기도 양주시<br>
+<div style="color:green;">MBTI : intp infp<br>
+<div style="color:blue;">하는 게임 : 롤<br><br>
+<div style="color:black;">특징 : 파카 초초초초오오오 광팬 (파카랑 말투 목소리 거의 흡사)<br>

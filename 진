@@ -1,12 +1,21 @@
-<a href="javascript:doDisplay('진악질');" style="color:red;"> 악질 내용</a><img src="우르르.png" width="3%"><br><br>
-<div id="진악질" style="display:none;">
-<span style="color:red;">2021.01.11 17:48</span><br>
-<img src="진.png" width="30%"><img src="진1.png" width="30%"><img src="진2.png" width="30%"><br>
--본인 요청으로 인한 내용 삭제-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;그의 취향<br>
+<a href="javascript:doDisplay('진사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="진사진" style="display:none;">
+<img src="진.png" width="20%"><br>
+(본인을 직접 그린 것ㄷㄷ)<br>
 </div>
-<a href="javascript:doDisplay('진특징');"style="color:black;"> 특징 내용</a><br/><br/>
-<div id="진특징" style="display:none;">
-특징 : 실제로 만나면 성격이 얌전해지고 말이 없어진다.<br>
-일본어 능력자<span style="color:orange;">( 현 N1 보유 )</span><br>
-<strong style="font-size:50px; color:red";>사<I style="font-size:40px";>왕</I>진<I style="font-size:40px";>안</I> 유일한 계승자</span><img src="릿카.gif" width="3%">
-</div>
+<a href="javascript:doDisplay('특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="특징" style="display:none;">
+<div style="color:red;"> 나이 : 20살<br>
+<div style="color:orange;">생일 : 8월 2일<br>
+<div style="color:yellow;">사는 곳 : 울산광역시<br>
+<div style="color:green;">MBTI : 가장 분포도가 적은 INFJ-T <br>
+<div style="color:blue;">하는 게임 : 리그오브레전드 (전 8시즌 마스터 40점)<br>
+                                    철권 현 28단 (파랑단)  <br>
+<div style="color:#C9D1FF;">좋아하는색<br><br>
+<div style="color:black;">특징 :  생각이 많지만 겉으로 드러내진 않는다. <br>
+        솔직하게 남한테 큰 관심을 가지지 않는다. <br>
+        친해지면 말이 많아지지만,<br> 
+        친해지기까지의 커트라인이 매우 높아 보임.<br>
+        프로 일러스트레이터가 되려고 그림 연습을 매일 하는 편.<br>
+        남중 - 남고 출신으로 의리 없는 사람들을 극도로 싫어함,<br>
+        철권 파랑단 (28단) 및 일본어 자격증 N1 보유중. <br>

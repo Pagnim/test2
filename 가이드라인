@@ -1,0 +1,12 @@
+<a href="javascript:doDisplay('사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="사진" style="display:none;">
+<img src="사진.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="특징" style="display:none;">
+<div style="color:red;">나이 :<br>
+<div style="color:orange;">생일 : <br>
+<div style="color:yellow;">사는 곳 :<br>
+<div style="color:green;">MBTI : <br>
+<div style="color:blue;">하는 게임 : <br><br>
+<div style="color:black;">특징 : <br>
