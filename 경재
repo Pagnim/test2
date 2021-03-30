@@ -1,0 +1,13 @@
+<a href="javascript:doDisplay('경재사진');" style="color:red;"><MARQUEE width="400px" scrollAmount=50 bgColor=#000000><FONT color=#00ff00 size=7>사진 보내!!!!!!!!!!!!!!!!!!</FONT></MARQUEE></P></a><br><br>
+<div id="경재사진" style="display:none;">
+</div>
+<a href="javascript:doDisplay('특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="특징" style="display:none;">
+<div style="color:red;">나이 : 26살<br>
+<div style="color:orange;">생일 : 4월 8일<br>
+<div style="color:yellow;">사는 곳 : 인천<br>
+<div style="color:green;">MBTI : ISTP<br>
+<div style="color:blue;">하는 게임 : 롤토체스, 스타2<br><br>
+<div style="color:black;">특징 : 현재 떡볶이 장인의 길을 걷는 중<br>
+술 댕좋아함<br>
+댕 잘마심<br>

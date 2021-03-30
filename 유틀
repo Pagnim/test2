@@ -1,0 +1,13 @@
+<a href="javascript:doDisplay('유틀사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="유틀사진" style="display:none;">
+<img src="유틀.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('유틀특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="유틀특징" style="display:none;">
+<div style="color:red;">나이 : 20살<br>
+<div style="color:orange;">생일 : 1월 1일<br>
+<div style="color:yellow;">사는 곳 : 전북 남원시<br>
+<div style="color:green;">MBTI : ENFP<br>
+<div style="color:blue;">하는 게임 : 롤<br><br>
+<div style="color:black;">특징 : 롤을 어어어엄청 즐겨 한다.<br>
+<MARQUEE direction=up behavior=alternate height=50><FONT color=green size=10>☆★디스코드 미남 항시 대기 중 문의 바람☆★</FONT></MARQUEE></P>

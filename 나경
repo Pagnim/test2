@@ -1,0 +1,13 @@
+<a href="javascript:doDisplay('나경사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="나경사진" style="display:none;">
+<img src="나경.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('나경특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="나경특징" style="display:none;">
+<div style="color:red;">나이 : 19살<br>
+<div style="color:orange;">생일 : 1월 11일<br>
+<div style="color:yellow;">사는 곳 : 아직은.. 비밀<br>
+<div style="color:green;">MBTI : ENTP <br>
+<div style="color:blue;">하는 게임 : 어몽어스 장인<br><br>
+<div style="color:black;">특징 : 키 16n 몸무게 4n <br>
+<strong style="font-size:100px; color:pink";> 따끈따끈 초 슈퍼루키 신입쟝<br>

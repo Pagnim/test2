@@ -1,0 +1,19 @@
+<a href="javascript:doDisplay('로키사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="로키사진" style="display:none;">
+<img src="로키.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('로키특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="로키특징" style="display:none;">
+<div style="color:red;">나이 : 22살<br></div>
+<div style="color:orange;">생일 : 2월 9일<br></div>
+<div style="color:yellow;">사는 곳 :서울<br></div>
+<div style="color:green;">MBTI : ESFP<br></div>
+<div style="color:blue;">하는 게임 : 롤, 스팀 게임<br><br></div>
+<div style="color:black;">특징 : 최애캐는 시노미야 카구야<br>
+부카츠 방장직을 맡고있다.<br>
+겉으로는 강한 척 하지만 속은 여린 갭모에 속성 <br>
+생각보다 톡방과 톡방인원들에게 큰 애정을 가지고 있다. <br>
+보통 자신이 먼저 다가가지만 상대가 다가와줘도 정말 잘대해준다!<br>
+앞으로 즐거운 톡방생활 합시다!<br></div>
+</div>
+<MARQUEE scrollAmount=500 direction=right style="font-size:100px">로키새끼</MARQUEE><BR>

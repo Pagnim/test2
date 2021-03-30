@@ -1,0 +1,15 @@
+<a href="javascript:doDisplay('건수사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="건수사진" style="display:none;">
+<img src="건수.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('건수특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="건수특징" style="display:none;">
+<div style="color:red;">나이 : 24살<br>
+<div style="color:orange;">생일 : 9월 29일<br>
+<div style="color:yellow;">사는 곳 : 감귤국<br>
+<div style="color:green;">MBTI : intp-t<br>
+<div style="color:blue;">하는 게임 : 메이플 <br><br>
+<div style="color:black;">특징 : 술 마시려고 태어남 1일 2병 안 마시면 괴로워함<br>
++ 감귤서리 12년차<br>
++ 눈 싸움할 때 귤 넣어서 던짐<br>
++ 제주시 귤 빨리까기 대회 2회 연속 우승<br>

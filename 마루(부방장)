@@ -1,0 +1,16 @@
+<a href="javascript:doDisplay('마루사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="마루사진" style="display:none;">
+<img src="마루.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('마루특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="마루특징" style="display:none;">
+<div style="color:red;">나이 : 20살<br>
+<div style="color:orange;">생일 : 10월 24일<br>
+<div style="color:yellow;">사는 곳 : 서울<br>
+<div style="color:green;">MBTI : ISFP<br>
+<div style="color:blue;">하는 게임 : 카러플<br><br>
+<div style="color:black;">특징 : 키가작다.<br>
+카러플 만년 8등<br>
+흰둥이 닮음<br>
+현직 술집 아르바이트 지명 에이스<br>
+단톡에서 태그하면 1초 대답 가능<br>
