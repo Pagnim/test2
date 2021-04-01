@@ -1,0 +1,17 @@
+<a href="javascript:doDisplay('윤아사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="윤아사진" style="display:none;">
+<img src="윤아.jpg" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('윤아특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="윤아특징" style="display:none;">
+<div style="color:red;">나이 : 21살<br></div>
+<div style="color:orange;">생일 : 3월 2일<br></div>
+<div style="color:yellow;">사는 곳 : 경기도<br></div>
+<div style="color:green;">MBTI : ENTJ<br></div>
+<div style="color:blue;">하는 게임 : 롤, VRChat, 테런 등<br><br></div>
+<div style="color:black;">특징 : 코스프레 시작한지 벌써 8년 째<br>
+옷 입는거 좋아하고 꾸미는 것도 좋아함<br>
+게임하는거 좋아하고 사람들과 대화하고 노는거 좋아함<br>
+성격은 좋은 편이고 잘 웃는 편<br> 
+<img src="떡볶이.gif" width="10%;"><br><br>
+<span class="blinkEle" style="color:pink; font-size:100px;">☆떡볶이에 진심녀☆</span></div></div><br><br><br>

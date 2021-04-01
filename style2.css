@@ -6,12 +6,11 @@ body{
     background-size: cover;
 }
 h1 {
-    display: block;
-    color:pink;
+    color:red;
     font-size:6em;
     text-align:center;
     margin:0px;
-    border-bottom:5px solid pink;
+    border-bottom:5px solid red;
 }
 h2 {
     font-size:3em;
@@ -36,7 +35,7 @@ h3 {
     }        
 ol{
     text-align:center;
-    border-right:5px solid pink;
+    border-right:5px solid red;
     width:300px;
     padding:0px;
     margin:0px;
@@ -46,7 +45,7 @@ ol{
 #grid{
     display:grid;
     grid-template-columns:300px 1fr;
-    border-bottom:5px solid pink;
+    border-bottom:5px solid red;
 }
 #내용{
     font-size:2em;

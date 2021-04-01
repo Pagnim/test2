@@ -1,0 +1,15 @@
+<a href="javascript:doDisplay('버거사진');" style="color:red;"><img src="호에에.png" width="3%;"> ☆사진 보기☆</a><img src="호에에.png" width="3%"><br><br>
+<div id="버거사진" style="display:none;">
+<img src="버거.png" width="20%"><br>
+</div>
+<a href="javascript:doDisplay('버거특징');" style="color:mint;"><img src="심쿵.png" width="3%" > ☆특징 보기☆</a><img src="심쿵.png" width="3%"><br><br>
+<div id="버거특징" style="display:none;">
+<div style="color:red;">나이 : 23살<br>
+<div style="color:orange;">생일 : 8월 10일<br>
+<div style="color:yellow;">사는 곳 : 서울<br>
+<div style="color:green;">MBTI : INFP<br>
+<div style="color:blue;">하는 게임 : 롤, 블리자드, 스팀<br><br>
+<div style="color:black;">특징 : 햄버거 좋아함 미친듯이 좋아함 집에 햄버거 인형 보유 중<br>
+힙합 좋아함 랩 댕 잘부름<br>
+햄버거 이름 300개 이상 외우고 있음<br></div>
+<div style="color:rgb(65, 214, 228); font-size:50px;"><MARQUEE width="400px" scrollAmount=30 bgColor=yellow><FONT color=red size=8>홍대 눈 가리고 햄버거 맞추기 대회 3년 연속 우승 타이틀</FONT></MARQUEE>

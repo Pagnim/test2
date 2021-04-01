@@ -1,12 +1,8 @@
 <!doctype html>
 <html>
     <head>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style2.css">
         <meta charset="utf-8">
-        <script
-        src="https://code.jquery.com/jquery-3.6.0.js"
-        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-        crossorigin="anonymous"></script>
         <script>
                 function doDisplay(id){
                 var con = document.getElementById(id);
@@ -19,11 +15,11 @@
                 function 논란내용(name){
                 fetch(name).then(function(response){
                 response.text().then(function(text){
-                document.querySelector('#내용').innerHTML = text;
+                document.querySelector('#악질내용').innerHTML = text;
                     })
                 });
                 }     
-             fetch('논란list').then(function(response){
+             fetch('악질list').then(function(response){
                  response.text().then(function(text){
                    var items = text.split(',');
                    var i = 0;
@@ -47,8 +43,7 @@
                 }   
         </script>
         <body style="background-color:rgb(228, 228, 255)">
-            <span style="font-size:20px"><a href="사사게.html">※주의) 부카츠 논란 보기</a></span>
-            <h1><img src="브이.png" width="11%">부카츠 부원 소개<img src="브이.png" width="11%"></h1>
+            <h1><img src="우르르.png" width="11%">부카츠 사건 사고 논란<img src="우르르.png" width="11%"></h1>
             <div id="grid">
             <ol id="ol">
             </ol>
